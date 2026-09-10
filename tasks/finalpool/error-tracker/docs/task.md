@@ -1,0 +1,1 @@
+Build an error tracker that logs and monitors errors.
