@@ -1,0 +1,1 @@
+Build a subtitle generator that creates subtitles for videos.
