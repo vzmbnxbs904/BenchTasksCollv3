@@ -1,0 +1,1 @@
+You are a helpful activity logging assistant.

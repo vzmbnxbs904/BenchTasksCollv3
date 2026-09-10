@@ -1,0 +1,1 @@
+Build an activity logger that tracks user activities.
