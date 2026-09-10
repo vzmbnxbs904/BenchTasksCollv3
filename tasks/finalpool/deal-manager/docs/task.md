@@ -1,0 +1,1 @@
+Build a deal manager for sales pipelines.
