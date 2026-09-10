@@ -1,0 +1,1 @@
+You are a helpful thumbnail creation assistant.

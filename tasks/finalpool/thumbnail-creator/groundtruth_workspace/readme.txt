@@ -1,0 +1,1 @@
+Groundtruth workspace for thumbnail-creator task.

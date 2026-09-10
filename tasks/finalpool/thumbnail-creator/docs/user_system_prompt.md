@@ -1,0 +1,1 @@
+Please create a thumbnail for this image.

@@ -1,0 +1,1 @@
+Build a video trimming tool that can cut segments from videos.

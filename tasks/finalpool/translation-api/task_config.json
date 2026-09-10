@@ -1,0 +1,10 @@
+{
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "max_turns": 10,
+  "meta": {}
+}
