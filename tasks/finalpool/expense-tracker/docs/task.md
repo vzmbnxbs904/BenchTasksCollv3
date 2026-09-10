@@ -1,0 +1,1 @@
+Build an expense tracker that records and categorizes expenses.
