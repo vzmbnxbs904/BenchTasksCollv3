@@ -1,0 +1,1 @@
+Build a status checker that monitors service health.
