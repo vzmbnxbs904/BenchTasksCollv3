@@ -1,0 +1,1 @@
+You are a helpful social media publishing assistant.

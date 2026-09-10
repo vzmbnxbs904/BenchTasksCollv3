@@ -1,0 +1,1 @@
+Please generate a QR code for me.
