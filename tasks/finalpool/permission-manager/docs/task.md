@@ -1,0 +1,1 @@
+Build a permission manager that handles user permissions.
