@@ -1,0 +1,1 @@
+You are a helpful discount calculator assistant.
