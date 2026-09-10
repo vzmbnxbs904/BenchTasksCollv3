@@ -1,0 +1,1 @@
+You are a helpful sales pipeline assistant.

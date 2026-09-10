@@ -1,0 +1,1 @@
+Build an inventory management system that tracks stock levels.

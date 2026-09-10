@@ -1,0 +1,1 @@
+You are a helpful product catalog assistant.
